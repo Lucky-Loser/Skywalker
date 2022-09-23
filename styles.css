@@ -1,0 +1,62 @@
+#header {
+       margin:0px 15%;
+       padding:1px 20% 40px 20%;
+       background-image:url("img/1652011525_anakin.png");
+       background-size: 80% auto;
+       background-repeat: no-repeat;
+       background-position:center;
+       
+       }
+#header blockquote {
+        font-size: x-large;
+        font-family: 'Poppins', sans-serif;
+        color: white;
+        padding: 0px 0px;   
+        margin-left: 30px;
+   }
+.CV {
+        margin-top:190px;
+        margin-bottom:10px;
+}
+.my-name {
+        margin-top: 10px;
+        margin-bottom:20px;
+}
+q {
+    margin:0px 35%;
+    padding:20px 10% 20px 2%;
+    background-color: rgba(19, 18, 18, 0.836);
+    color: white;  
+    font-size:x-large;
+    font-family: 'Poppins', sans-serif;
+    display:block;
+    text-align:left;
+
+    
+}
+.hgroup0 {
+        margin:0px 10%;
+        padding:10px 20%;
+        font-family: 'Poppins', sans-serif;
+}
+.hgroup1 {
+        margin:0px 10%;
+        padding:10px 20%;
+        font-family: 'Poppins', sans-serif;
+}
+.hgroup2 {
+        margin:0px 10%;
+        padding:10px 20%;
+        font-family: 'Poppins', sans-serif;
+}
+.hgroup3 {
+        margin:0px 10%;
+        padding:10px 20%;
+        font-family: 'Poppins', sans-serif;
+}
+.hgroup4 {
+        margin:0px 25%;
+        padding:30px 10% 10px 5%;
+        font-family: 'Poppins', sans-serif;
+        border-top: 2px solid black;
+      }
